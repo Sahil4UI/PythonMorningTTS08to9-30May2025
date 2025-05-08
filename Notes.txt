@@ -1,0 +1,24 @@
+What is Python?
+Python is a high level general purpose programming language
+
+Programming->program->set of instructions used to perform a particular task->+,-,*,/->Calculator
+
+Programming:
+1.low level - assembly 8086 -> code is very complicated 
+2.mid Level - C language->easier than low level
+3.high level - python - code is as simple as like english
+
+General Purpose?:
+1.app development-desktop apps , website
+2.game development
+3.Data Analysis
+4.Ethical Hacking
+5.AI-Artificial Intelligence
+
+Python Installation:
+python.org
+Steps for Installation:
+https://phoenixnap.com/kb/how-to-install-python-3-windows
+
+Python : 
+variables:
